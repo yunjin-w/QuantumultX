@@ -35,11 +35,11 @@
 ########################################
 
 # adconfig
-^https?:\/\/.*\/adconfig.*$ url script-response-body https://raw.githubusercontent.com/<你的用户名>/qqmusic-quantumultx/main/empty_json.js
+^https?:\/\/.*\/adconfig.*$ url script-response-body https://github.com/yunjin-w/QuantumultX/blob/main/Rewrite/Advertising/empty_json
 # adInfo
-^https?:\/\/.*\/adInfo.*$ url script-response-body https://raw.githubusercontent.com/<你的用户名>/qqmusic-quantumultx/main/empty_json.js
+^https?:\/\/.*\/adInfo.*$ url script-response-body https://github.com/yunjin-w/QuantumultX/blob/main/Rewrite/Advertising/empty_json
 # adSwitch
-^https?:\/\/.*\/adSwitch.*$ url script-response-body https://raw.githubusercontent.com/<你的用户名>/qqmusic-quantumultx/main/empty_json.js
+^https?:\/\/.*\/adSwitch.*$ url script-response-body https://github.com/yunjin-w/QuantumultX/blob/main/Rewrite/Advertising/empty_json
 
 
 ########################################
